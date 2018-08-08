@@ -5,6 +5,10 @@ logging:
         cloud:
           samples: INFO
 
+management:
+  security:
+    enabled: false
+    
 fortune:
   fallbackFortune: Your future is in Los Angeles baby!
 
