@@ -5,12 +5,6 @@ logging:
         cloud:
           samples: INFO
 
-management:
-  security:
-    enabled: false
-  cloudfoundry:
-    skip-ssl-validation: true
-
 fortune:
   fallbackFortune: Your future is in Los Angeles baby!
 
