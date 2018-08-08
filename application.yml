@@ -6,6 +6,6 @@ logging:
           samples: INFO
 
 fortune:
-  #fallbackFortune: Your future is in Los Angeles baby!
-  fallbackFortune: Does it work?
+  fallbackFortune: Your future is in Los Angeles baby!
+  #fallbackFortune: Does it work?
 
